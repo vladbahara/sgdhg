@@ -1,4 +1,4 @@
-#define GLSLIFY 1
+
 uniform float time;
 uniform float progress;
 uniform sampler2D texture1;
