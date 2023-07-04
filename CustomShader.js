@@ -1,6 +1,6 @@
 import {
 	Vector2
-} from 'three';
+} from 'https://unpkg.com/three@0.154.0/src/math/Vector2.js';
 
 /**
  * Dot screen shader
